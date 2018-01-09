@@ -1,0 +1,5 @@
+2018-01-09 09:59:56 WARNING (MainThread) [homeassistant.setup] Setup of sensor is taking over 10 seconds.
+2018-01-09 10:00:02 WARNING (MainThread) [homeassistant.setup] Setup of tts is taking over 10 seconds.
+2018-01-09 10:00:17 WARNING (SyncWorker_3) [netdisco.ssdp] Found malformed XML at http://192.168.1.20:9080: status=ok
+2018-01-09 10:00:17 WARNING (SyncWorker_3) [netdisco.ssdp] Error fetching description at https://192.168.1.90/HNAP1/
+2018-01-09 10:00:41 ERROR (MainThread) [homeassistant.core] Timer got out of sync. Resetting
